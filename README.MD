@@ -1,0 +1,1 @@
+This project was created in a day in unity and it represents a simple 2D platformer shooter that can be played with 2 people. Assets used are created by me.
